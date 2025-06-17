@@ -1,0 +1,1037 @@
+{
+  "main": {
+    "id": "5e9968297f740fa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2309ae82092bacde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc9e75dc2e61f1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "493ec040fe3ac03f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1adf0c5fedb895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Network Security Fundamentals - 16 percent/1.4 Apply network hardening methods for enhanced security on Strata and SASE products.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Apply network hardening methods for enhanced security on Strata and SASE products"
+            }
+          },
+          {
+            "id": "a6fe520754698a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Network Security Fundamentals - 16 percent/1.4.1 Content-ID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4.1 Content-ID"
+            }
+          },
+          {
+            "id": "1cc02e9787158055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.1 Explain the function of Cloud NGFWs, PA-Series, CN-Series, and VM-Series firewalls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Explain the function of Cloud NGFWs, PA-Series, CN-Series, and VM-Series firewalls"
+            }
+          },
+          {
+            "id": "4e2319b623a62e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.1.1 Perimeter and core security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1.1 Perimeter and core security"
+            }
+          },
+          {
+            "id": "7e8be11005b7b14f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.3.1 Remote user configuration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3.1 Remote user configuration"
+            }
+          },
+          {
+            "id": "a09f9041a89a1c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.3.2 Remote network configuration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3.2 Remote network configuration"
+            }
+          },
+          {
+            "id": "88cec2ecbc070bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.3.3 Public and private application access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3.3 Public and private application access"
+            }
+          },
+          {
+            "id": "e09feaed96b717bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.3.4 Security and NAT policy implementation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3.4 Security and NAT policy implementation"
+            }
+          },
+          {
+            "id": "6ed4610b74e6b75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.3.5 Monitoring and logging (Strata Logging Service).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3.5 Monitoring and logging (Strata Logging Service)"
+            }
+          },
+          {
+            "id": "8b7b9bc651e7f0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.4 Identify options for managing Strata and SASE solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4 Identify options for managing Strata and SASE solutions"
+            }
+          },
+          {
+            "id": "deaa2c5f074a54bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/2.4.1 Panorama.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4.1 Panorama"
+            }
+          },
+          {
+            "id": "42f089989b401f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/3.2.9 Advanced DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2.9 Advanced DNS"
+            }
+          },
+          {
+            "id": "b598eb5b21af97ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/3.3 Explain aligning AIOps to Palo Alto Networks best practices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 Explain aligning AIOps to Palo Alto Networks best practices"
+            }
+          },
+          {
+            "id": "f9d3281ea70194a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/3.3.1 Administration of AIOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3.1 Administration of AIOps"
+            }
+          },
+          {
+            "id": "5cc17a61dced2ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/3.3.2 Dashboards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3.2 Dashboards"
+            }
+          },
+          {
+            "id": "0cf0b60879b55eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - NGFW and SASE Solution Functionality - 18 percent/3.1 Describe Palo Alto Networks NGFW and Prisma SASE products for security efficacy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 Describe Palo Alto Networks NGFW and Prisma SASE products for security efficacy"
+            }
+          },
+          {
+            "id": "d2bb6c7c17fc4341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.1 Maintain and configure Palo Alto Networks hardware firewalls, VM-Series firewalls, CN-Seriesfirewalls, and Cloud NGFWs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Maintain and configure Palo Alto Networks hardware firewalls, VM-Series firewalls, CN-Seriesfirewalls, and Cloud NGFWs"
+            }
+          },
+          {
+            "id": "ab41afb5a3f404dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.1.1 Security policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1.1 Security policies"
+            }
+          },
+          {
+            "id": "a1707130881634b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.1.2 Profiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1.2 Profiles"
+            }
+          },
+          {
+            "id": "ce199aa5cebff533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.1.3 Updates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1.3 Updates"
+            }
+          },
+          {
+            "id": "901d440704299c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.1.4 Upgrades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1.4 Upgrades"
+            }
+          },
+          {
+            "id": "33fc5489925e0324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.2 Add, configure, and maintain Prisma SD-WAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 Add, configure, and maintain Prisma SD-WAN"
+            }
+          },
+          {
+            "id": "59b6f3d18b92d7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.2.1 Initial ION setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2.1 Initial ION setup"
+            }
+          },
+          {
+            "id": "b1c3bd5f0dc19dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.2.2 Pathing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2.2 Pathing"
+            }
+          },
+          {
+            "id": "d73a62945dd147ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.2.3 Monitoring and Logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2.3 Monitoring and Logging"
+            }
+          },
+          {
+            "id": "2e03a09e18694990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.3 Maintain and Configure Prisma Access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 Maintain and Configure Prisma Access"
+            }
+          },
+          {
+            "id": "dfda11725757ead3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.3.1 Security Policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3.1 Security Policies"
+            }
+          },
+          {
+            "id": "71f7aa8aefef5f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.3.2 Profiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3.2 Profiles"
+            }
+          },
+          {
+            "id": "d7109668b7ff295e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.3.3 Updates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3.3 Updates"
+            }
+          },
+          {
+            "id": "532c34253bcaa395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent/4.3.4 Upgrades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3.4 Upgrades"
+            }
+          },
+          {
+            "id": "0166c8eb0b26e1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.1 Maintain and Configure CDSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 Maintain and Configure CDSS"
+            }
+          },
+          {
+            "id": "f42b6f3b033ec295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.1.1 Security Policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1.1 Security Policies"
+            }
+          },
+          {
+            "id": "be2f869ca3397866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.1.2 Profiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1.2 Profiles"
+            }
+          },
+          {
+            "id": "28593cafbfbd4e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.1.3 Updates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1.3 Updates"
+            }
+          },
+          {
+            "id": "5b2984ac62035bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.2 Maintain and Configure IoT Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2 Maintain and Configure IoT Security"
+            }
+          },
+          {
+            "id": "1b3838cee9da28aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.2.1 Security Policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.1 Security Policies"
+            }
+          },
+          {
+            "id": "2e17a3a1dc2652f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.2.2 Device-IDs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.2 Device-IDs"
+            }
+          },
+          {
+            "id": "c19fae791b481a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.2.3 Monitoring and Logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.3 Monitoring and Logging"
+            }
+          },
+          {
+            "id": "bc7f042e3648a5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.3. Maintain and Configure Enterprise DLP and Enterprise SaaS Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3. Maintain and Configure Enterprise DLP and Enterprise SaaS Security"
+            }
+          },
+          {
+            "id": "048f0590f10f4e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.3.1 Data Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3.1 Data Encryption"
+            }
+          },
+          {
+            "id": "7a6337b73b7e831a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.3.2 Access Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3.2 Access Control"
+            }
+          },
+          {
+            "id": "f4e033ea96950680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.3.3 Monitoring and Logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3.3 Monitoring and Logging"
+            }
+          },
+          {
+            "id": "5713022b9919a9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.4 Maintain and Configure Strata Cloud Manager (SCM) and Panorama in Network Security Environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4 Maintain and Configure Strata Cloud Manager (SCM) and Panorama in Network Security Environments"
+            }
+          },
+          {
+            "id": "55c3221302513a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.4.1 Supported Products.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4.1 Supported Products"
+            }
+          },
+          {
+            "id": "dea2e64e9a451d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.4.2 New Device Addition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4.2 New Device Addition"
+            }
+          },
+          {
+            "id": "6df503c1a23eadd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.4.3 Reporting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4.3 Reporting"
+            }
+          },
+          {
+            "id": "7ae42e567f244cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Infrastructure Management and CDSS - 15 percent/5.4.4 Configuration Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4.4 Configuration Management"
+            }
+          },
+          {
+            "id": "593505d344d6506c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.1 Maintain and Configure Network Security of On-Premises, Cloud, and Hybrid Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 Maintain and Configure Network Security of On-Premises, Cloud, and Hybrid Networks"
+            }
+          },
+          {
+            "id": "38315925da24f5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.1.1 Network Segmentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.1 Network Segmentation"
+            }
+          },
+          {
+            "id": "4d007f09c623af82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.1.2 Policies (Security and Network).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.2 Policies (Security and Network)"
+            }
+          },
+          {
+            "id": "6f76cf312c42ee77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.1.3 Monitoring and Logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.3 Monitoring and Logging"
+            }
+          },
+          {
+            "id": "6c3b455b257e82a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.1.4 Certificates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.4 Certificates"
+            }
+          },
+          {
+            "id": "7adbd4078206d22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.2 Maintain Connectivity and Security of Remote Users.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2 Maintain Connectivity and Security of Remote Users"
+            }
+          },
+          {
+            "id": "9e4db85a2dc37af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.2.1 Remote Access Solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2.1 Remote Access Solutions"
+            }
+          },
+          {
+            "id": "34e32e4737893658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.2.2 Network Segmentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2.2 Network Segmentation"
+            }
+          },
+          {
+            "id": "cbddddf66d948e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.2.3 Security Policy Tuning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2.3 Security Policy Tuning"
+            }
+          },
+          {
+            "id": "f2f9fc5613f6284b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Connectivity and Security - 14 percent/6.2.4 Monitoring and Logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2.4 Monitoring and Logging"
+            }
+          },
+          {
+            "id": "b7e4297afd76f837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Network Security Fundamentals - 16 percent/1.1 Explain Application Layer inspection for Strata and SASE products.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Explain Application Layer inspection for Strata and SASE products"
+            }
+          }
+        ],
+        "currentTab": 57
+      },
+      {
+        "id": "4a623f9880579edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd5af047ca9e4890",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b70abc04ee3b5bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2bb5287745f4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac2119338ca3d049",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92978b37ea9a321a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6bf3c933cfadd1f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3bde00f09dc923d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f7b52b821b2e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90550b4614807cdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "359541506f935d37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e66c82c8cf1b5142",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1f9255fe80761cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8dc9e75dc2e61f1a",
+  "lastOpenFiles": [
+    "1 - Network Security Fundamentals - 16 percent/1.1 Explain Application Layer inspection for Strata and SASE products.md",
+    "6 - Connectivity and Security - 14 percent/6.1 Maintain and Configure Network Security of On-Premises, Cloud, and Hybrid Networks.md",
+    "6 - Connectivity and Security - 14 percent/6.2.5 Certificates.md",
+    "6 - Connectivity and Security - 14 percent/6.2.4 Monitoring and Logging.md",
+    "6 - Connectivity and Security - 14 percent/6.2.3 Security Policy Tuning.md",
+    "6 - Connectivity and Security - 14 percent/6.2.2 Network Segmentation.md",
+    "6 - Connectivity and Security - 14 percent/6.2.1 Remote Access Solutions.md",
+    "6 - Connectivity and Security - 14 percent/6.2 Maintain Connectivity and Security of Remote Users.md",
+    "6 - Connectivity and Security - 14 percent/6.1.4 Certificates.md",
+    "6 - Connectivity and Security - 14 percent/6.1.3 Monitoring and Logging.md",
+    "6 - Connectivity and Security - 14 percent/6.1.2 Policies (Security and Network).md",
+    "6 - Connectivity and Security - 14 percent/6.1.1 Network Segmentation.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.1 Maintain and Configure CDSS.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.4.4 Configuration Management.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.4.3 Reporting.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.4.2 New Device Addition.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.4.1 Supported Products.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.4 Maintain and Configure Strata Cloud Manager (SCM) and Panorama in Network Security Environments.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.3.3 Monitoring and Logging.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.3.2 Access Control.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.3.1 Data Encryption.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.3. Maintain and Configure Enterprise DLP and Enterprise SaaS Security.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.2.3 Monitoring and Logging.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.2.2 Device-IDs.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.2.1 Security Policies.md",
+    "5 - Infrastructure Management and CDSS - 15 percent/5.2 Maintain and Configure IoT Security.md",
+    "1.3.2 SSL Inbound Inspection",
+    "1 - Network Security Fundamentals - 16 percent/Untitled",
+    "6 - Connectivity and Security - 14 percent",
+    "5 - Infrastructure Management and CDSS - 15 percent",
+    "4 - NGFW and SASE Solution Maintenance and Configuration - 19 percent",
+    "3 - Platform Solutions Services and Tools - 18 percent",
+    "2 - NGFW and SASE Solution Functionality - 18 percent",
+    "1 - Network Security Fundamentals - 16 percent",
+    "_Welcome"
+  ]
+}
